@@ -1,0 +1,11 @@
+[package]
+name = "doltonft"
+version = "0.1.0"
+edition = "2021"
+
+[workspace]
+members = [
+  "block"
+]
+
+[dependencies]
